@@ -1,0 +1,2 @@
+# HTermux
+bash install.sh
